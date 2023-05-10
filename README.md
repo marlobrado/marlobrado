@@ -4,7 +4,8 @@
 ](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marlobrado&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Henrique github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marlobrado&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Henrique github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlobrado&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats"&theme=radical/>
 </div>
 
 
